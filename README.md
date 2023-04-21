@@ -1,3 +1,3 @@
 # A Simple Dice Game using ReactJS
 
-link : https://random-dice-by-vimal.netlify.app/
+link : https://dice-game-by-ishan.netlify.app/
